@@ -13,6 +13,9 @@ Takeaway:
 - Random Forests requires less preprocessing and the training process is also much simpler.
 - Hyper-parameter tuning is easier with random forest when compared to neural networks
 
+https://github.com/kkairu/classification/blob/master/RF%20and%20NN%20-%20Telecom%20Churn%20Prediction.ipynb
+
+
 
 ## Telemarketing - Classification Model Comparison
 
@@ -26,3 +29,5 @@ Model Comparison:
 - Random Forest Classifier
 
 Data Source - 41,118 Bank Data between 2008 and 2013 and contains the results of a telemarketing campaign including customer’s response to the bank’s offer of a deposit contract.
+
+https://github.com/kkairu/classification/blob/master/ML%20Classification%20-%20Telemarketing%20Data.ipynb
