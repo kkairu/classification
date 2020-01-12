@@ -1,6 +1,18 @@
 # Classification Machine Learning Models
 
 
+## Feature Selection - RFE with Cross-Validation RFECV
+
+Select the predictors based on the importance rankings.
+
+Data - Kaggle Titanic Dataset
+
+Takeaway:
+- Optimal number of features identified based on accuracy using a Random Forest Estimator
+
+
+
+
 ## Telecom Churn Prediction Using Random Forest vs Neural Networks (Keras)
 
 Statistically 59% of customers don’t return after a bad customer service experience.
