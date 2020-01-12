@@ -10,6 +10,7 @@ Data - Kaggle Titanic Dataset
 Takeaway:
 - Optimal number of features identified based on accuracy using a Random Forest Estimator
 
+https://github.com/kkairu/classification/blob/master/Feature%20Selection%20-%20RFE%20with%20Cross-Validation%20RFECV.ipynb
 
 
 
