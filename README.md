@@ -44,3 +44,17 @@ Model Comparison:
 Data Source - 41,118 Bank Data between 2008 and 2013 and contains the results of a telemarketing campaign including customer’s response to the bank’s offer of a deposit contract.
 
 https://github.com/kkairu/classification/blob/master/ML%20Classification%20-%20Telemarketing%20Data.ipynb
+
+
+## Breast Cancer Classification Using Random Forest
+
+Classification Model for breast cancer Using Random Forest, PCA & Hyperparameter Tuning (RandomizedSearchCV, GridSearchCV)
+
+Model Comparison:
+- Baseline RF
+- Baseline RF with PCA
+- Baseline RF with PCA and Hyperparameter Tuning
+
+Data Source - Dataset = Scikit-learn “breast cancer” dataset. https://scikit-learn.org/stable/modules/generated/sklearn.datasets.load_breast_cancer.html
+
+https://github.com/kkairu/classification/blob/master/ML%20Classification%20-%20Telemarketing%20Data.ipynb
